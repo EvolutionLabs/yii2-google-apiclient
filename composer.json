@@ -23,7 +23,7 @@
     },
     "require": {
         "yiisoft/yii2": "~2",
-        "google/apiclient": "1.*" 
+        "google/apiclient": "*" 
     },
     "autoload": {
         "psr-4": {
