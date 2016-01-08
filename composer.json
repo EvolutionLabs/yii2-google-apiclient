@@ -1,5 +1,5 @@
 {
-    "name": "machour/yii2-google-apiclient",
+    "name": "evolutionlabs/yii2-google-apiclient",
     "description": "A Yii2 wrapper for the official Google API PHP Client",
     "version": "0.1.0",
     "type": "yii2-extension",
@@ -8,18 +8,18 @@
         "google"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/machour/yii2-google-apiclient",
+    "homepage": "https://github.com/evolutionlabs/yii2-google-apiclient",
     "time": "2015-10-23",
     "authors": [
         {
-            "name": "Mehdi Achour",
-            "email": "machour@gmail.com",
-            "role": "Creator"
+            "name": "Evolution Labs",
+            "email": "devs@evolution.ro",
+            "role": "Contributor"
         }
     ],
     "support": {
-        "issues": "https://github.com/machour/yii2-google-apiclient/issues",
-        "source": "https://github.com/machour/yii2-google-apiclient"
+        "issues": "https://github.com/evolutionlabs/yii2-google-apiclient/issues",
+        "source": "https://github.com/evolutionlabs/yii2-google-apiclient"
     },
     "require": {
         "yiisoft/yii2": "~2",
